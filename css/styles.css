@@ -1,0 +1,75 @@
+body {
+	background-color: #EEEEEE;
+	font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
+
+.container {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 1000px;
+	background-color: #DDDDDD;
+	padding: 10px 30px 10px 30px;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	color: #8F4957;
+	border-bottom: 1px solid #75061E;
+}
+
+h2 { border-bottom: 1px solid black; }
+
+h3 { 
+	display: inline-block;
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+p { line-height: 25px; }
+
+ul { line-height: 20px; }
+
+a {
+	text-decoration: none;
+	color: #75061E;
+}
+
+a:hover { color: #C14753; }
+
+figure.left {
+	float: left;
+}
+
+figure.right {
+	float: right;
+}
+
+#inhabitants { list-style-type: none; }
+
+#twin { padding-bottom: 15px; }
+
+.year { 
+	font-style: italic;
+	display: inline-block;
+}
+
+/*Navigation*/
+.menu ul {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+}
+
+.menu a {
+	padding: 0 30px 0 30px;
+	font-weight: bold;
+}
+
+.menu a.is-current { color: #C17676; }
+
+footer {
+	text-align: center;
+	margin: 20px;
+	line-height: 22px;
+}
