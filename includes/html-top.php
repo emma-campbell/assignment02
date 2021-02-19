@@ -4,6 +4,6 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Assignment 01 - City Website</title>
+	<title>Assignment 02 - City Website Improvement</title>
 	<link rel="stylesheet" href="css/styles.css">
 </head>
