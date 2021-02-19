@@ -8,3 +8,7 @@ change background color to 	background-color: linear-gradient(120deg, #a1c4fd 0%
 change word background color to 	background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
 
 add break in misc in order to make the arrangement more reasonable
+
+add break in international in order to split up paragraph
+
+change the word size
