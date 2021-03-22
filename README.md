@@ -19,7 +19,7 @@ I chose Spectral and Karla as the two fonts to implement. Spectral is a serif-fo
 
 ## CSS Changes
 
-Overall, there weren't too many changes that I made to the site. CSS wise, I first changed the fonts to their new typefaces. I noticed that the paragraph font was a little hard to read, so I upped the size and increases the line spacing to increase legibility. 
+Overall, there weren't too many changes that I made to the site. CSS wise, I first changed the fonts to their new typefaces. I noticed that the paragraph font was a little hard to read, so I upped the size and increased the line spacing to increase legibility. 
 
 The only other CSS change that I made was to change the background color of the container to white. This increases the constrast between the typeface and the background -- increasing reability.  
 
