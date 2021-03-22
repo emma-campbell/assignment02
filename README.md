@@ -15,7 +15,7 @@ I chose the following new fonts to add to the website:
 * Spectral
 * Karla
 
-I chose Spectral and Karla as the two fonts to implement. Spectral is a serif-font, and I will implement it as a header font (h1, h2, h3), as it is clean, some-what "fancy/upscale" and easy to read. The previous font was an "Old Style" Hoefler Text, classic and traditional. The new font, Spectral, is a bit more transitional and Modern.  I chose spectral because there is a larger spacing in-between letters which improves readability I chose Karla, a sans-serif typeface, for the paragraph text because it is modern and constrasts nicely with Spectral. I believe that the two fonts add a sense of moderness plus a sense of class.
+I chose Spectral and Karla as the two fonts to implement. Spectral is a serif-font, and I will implement it as a header font (h1, h2, h3), as it is clean, some-what "fancy/upscale" and easy to read. The previous font was an "Old Style" Hoefler Text, classic and traditional. The new font, Spectral, is a bit more transitional and Modern.  I chose spectral because there is a larger spacing in-between letters which improves legibility. I chose Karla, a sans-serif typeface, for the paragraph text because it is modern and constrasts nicely with Spectral. I believe that the two fonts add a sense of moderness plus a sense of class.
 
 ## CSS Changes
 
