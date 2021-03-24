@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<title>Assignment 7 - International Relations</title>
 		<?php include "includes/html-top.php"; ?>
 	</head>
 	<body>

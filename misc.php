@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<title>Assignment 7 - Miscellanous</title>
 		<?php include "includes/html-top.php"; ?>
 	</head>
 	<body>
@@ -24,15 +25,15 @@
 					<h3><img src="images/money.png">Economy</h3>
 					<p>There are many well known companies located in Oberursel, predominantly in the IT and tourism industries.</p>
 					<ul>
-						<li>Utimaco Safeware AG</li>
-						<li>Dimension Data Germany AG & Co (Until 2014)</li>
-						<li>Alte Leipziger (insurance)</li>
-						<li>Rolls-Royce Deutschland GmbH</li>
-						<li>AVIS</li>
-						<li>AFN ( Transmitter Weisskirchen)</li>
-						<li>IBM Data Center, Bommersheim</li>
-						<li>Dantotsu Intelligent Solutions GbR</li>
-						<li>Condor Airlines operates an office in Oberursel</li>
+						<li><p>Utimaco Safeware AG</p></li>
+						<li><p>Dimension Data Germany AG & Co (Until 2014)</p></li>
+						<li><p>Alte Leipziger (insurance)</p></li>
+						<li><p>Rolls-Royce Deutschland</p></li>
+						<li><p>AVIS</p></li>
+						<li><p>AFN ( Transmitter Weisskirchen)</p></li>
+						<li><p>IBM Data Center, Bommersheim</p></li>
+						<li><p>Dantotsu Intelligent Solutions</p></li>
+						<li><p>Condor Airlines operates an office in Oberursel</p></li>
 					</ul>
 				</section>
 			</article>
